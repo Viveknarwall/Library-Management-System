@@ -1,13 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 #LIBRARY MANAGMENT SYSTEM
-
-
-# In[ ]:
 
 
 from pathlib import Path
@@ -339,10 +330,3 @@ elif User == 2:
             student_object.BookDetails()
         elif Tell == 0:
              break
-
-
-# In[ ]:
-
-
-
-
