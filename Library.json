@@ -1,0 +1,62 @@
+[
+    {
+        "BookName": "Python Basics",
+        "AuthorName": "John Smith",
+        "Copies": 5,
+        "BookId": "B-1001"
+    },
+    {
+        "BookName": "Data Science Handbook",
+        "AuthorName": "Jake VanderPlas",
+        "Copies": 3,
+        "BookId": "B-1002"
+    },
+    {
+        "BookName": "Learning SQL",
+        "AuthorName": "Alan Beaulieu",
+        "Copies": 4,
+        "BookId": "B-1003"
+    },
+    {
+        "BookName": "Python for Data Analysis",
+        "AuthorName": "Wes McKinney",
+        "Copies": 2,
+        "BookId": "B-1004"
+    },
+    {
+        "BookName": "Clean Code",
+        "AuthorName": "Robert C. Martin",
+        "Copies": 3,
+        "BookId": "B-1005"
+    },
+    {
+        "BookName": "Introduction to Algorithms",
+        "AuthorName": "Thomas H. Cormen",
+        "Copies": 2,
+        "BookId": "B-1006"
+    },
+    {
+        "BookName": "Statistics for Beginners",
+        "AuthorName": "David Freedman",
+        "Copies": 4,
+        "BookId": "B-1007"
+    },
+    {
+        "BookName": "Atomic Habits",
+        "AuthorName": "James Clear",
+        "Copies": 3,
+        "BookId": "B-1008"
+    },
+    {
+        "BookName": "The Psychology of Money",
+        "AuthorName": "Morgan Housel",
+        "Copies": 2,
+        "BookId": "B-1009"
+    },
+    {
+        "BookName": "Deep Learning",
+        "AuthorName": "Ian Goodfellow",
+        "Copies": 2,
+        "BookId": "B-1010"
+    }
+]

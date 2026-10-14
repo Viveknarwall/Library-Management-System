@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "Aarav Sharma",
+        "Age": 20,
+        "Email": "aarav@example.com",
+        "StudentId": "S-1001",
+        "IssuedBook": []
+    },
+    {
+        "Name": "Priya Verma",
+        "Age": 21,
+        "Email": "priya@example.com",
+        "StudentId": "S-1002",
+        "IssuedBook": []
+    },
+    {
+        "Name": "Rahul Kumar",
+        "Age": 19,
+        "Email": "rahul@example.com",
+        "StudentId": "S-1003",
+        "IssuedBook": []
+    },
+    {
+        "Name": "Neha Singh",
+        "Age": 22,
+        "Email": "neha@example.com",
+        "StudentId": "S-1004",
+        "IssuedBook": []
+    },
+    {
+        "Name": "Arjun Patel",
+        "Age": 20,
+        "Email": "arjun@example.com",
+        "StudentId": "S-1005",
+        "IssuedBook": []
+    }
+]
